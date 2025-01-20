@@ -1,1 +1,1 @@
-envia email, ta dando priblema na importação 
+ao enviar email, ta dando problema na importação, mas acho que é mais a fundo. 
